@@ -1,0 +1,148 @@
+0 
+39
++itf+/home/synopsys/vcs/O-2018.09-SP2/linux64/lib/vcsdp.tab
++memcbk
++v2k
++vc
++vcsd
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc-4.8
+-Mcfl= -pipe -fPIC -O -I/home/synopsys/vcs/O-2018.09-SP2/include
+-Mcplusplus=g++-4.8
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -Wl,--no-as-needed -rdynamic
+-Mobjects= /home/synopsys/vcs/O-2018.09-SP2/linux64/lib/libvirsim.so /home/synopsys/vcs/O-2018.09-SP2/linux64/lib/liberrorinf.so /home/synopsys/vcs/O-2018.09-SP2/linux64/lib/libsnpsmalloc.so /home/synopsys/vcs/O-2018.09-SP2/linux64/lib/libvfs.so /home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/pli.a
+-Mout=simv
+-Msaverestoreobj=/home/synopsys/vcs/O-2018.09-SP2/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/pli.a -ldl -lm
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/home/synopsys/vcs/O-2018.09-SP2/include
+-P
+-P
+-Xvcs_run_simv=1
+-debug_acc+fsdb
+-debug_access+all+bc
+-debug_region+cell
+-f filelist.f
+-fsdb
+-full64
+-full64
+-gen_obj
+-picarchive
+-sverilog
+-timescale=1ns/1ps
+/home/synopsys/vcs/O-2018.09-SP2/linux64/bin/vcs1
+/home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/novas.tab
+/home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/verdi.tab
+73
+sysc_uni_pwd=/home/eric/Desktop/ic_pro/riscv/riscv_DDCA/riscv_single/sim
+XMODIFIERS=@im=ibus
+XDG_VTNR=2
+XDG_SESSION_TYPE=x11
+XDG_SESSION_ID=2
+XDG_SESSION_DESKTOP=ubuntu
+XDG_SEAT=seat0
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_MENU_PREFIX=gnome-
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+XDG_CURRENT_DESKTOP=ubuntu:GNOME
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+XAUTHORITY=/run/user/1000/gdm/Xauthority
+WINDOWPATH=2
+VTE_VERSION=5202
+VMR_MODE_FLAG=64
+VERDI_HOME=/home/synopsys/verdi/Verdi_O-2018.09-SP2
+VCS_MODE_FLAG=64
+VCS_HOME=/home/synopsys/vcs/O-2018.09-SP2
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH_OVERRIDE=linux
+VCS_ARCH=linux64
+USERNAME=eric
+UNAME=/bin/uname
+TOOL_HOME=/home/synopsys/vcs/O-2018.09-SP2/linux64
+TEXTDOMAINDIR=/usr/share/locale/
+TEXTDOMAIN=im-config
+SYNOPSYS=/home/synopsys/syn/O-2018.06-SP1
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+SSH_AGENT_PID=2235
+SPYGLASS_HOME=/home/synopsys/SpyGlass_2016.06/SpyGlass-L2016.06/SPYGLASS_HOME
+SPYGLASS_DC_PATH=/home/synopsys/syn/O-2018.06-SP1
+SESSION_MANAGER=local/eric-synopsys:@/tmp/.ICE-unix/2140,unix/eric-synopsys:/tmp/.ICE-unix/2140
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+QT_IM_MODULE=xim
+QT_ACCESSIBILITY=1
+QT4_IM_MODULE=xim
+OVA_UUM=0
+NOVAS_HOME=/home/synopsys/verdi/Verdi_O-2018.09-SP2
+MFLAGS=
+MAKE_TERMOUT=/dev/pts/0
+MAKE_TERMERR=/dev/pts/0
+MAKELEVEL=1
+MAKEFLAGS=
+LESSOPEN=| /usr/bin/lesspipe %s
+LESSCLOSE=/usr/bin/lesspipe %s %s
+LC_TIME=zh_CN.UTF-8
+LC_TELEPHONE=zh_CN.UTF-8
+LC_PAPER=zh_CN.UTF-8
+LC_NUMERIC=zh_CN.UTF-8
+LC_NAME=zh_CN.UTF-8
+LC_MONETARY=zh_CN.UTF-8
+LC_MEASUREMENT=zh_CN.UTF-8
+LC_IDENTIFICATION=zh_CN.UTF-8
+LC_ALL=C
+LC_ADDRESS=zh_CN.UTF-8
+IM_CONFIG_PHASE=2
+GTK_MODULES=gail:atk-bridge
+GTK_IM_MODULE=ibus
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+GNOME_TERMINAL_SERVICE=:1.73
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/1ff07d4f_72c6_4ffe_b500_7337b0912176
+GNOME_SHELL_SESSION_MODE=ubuntu
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDMSESSION=ubuntu
+DESKTOP_SESSION=ubuntu
+DESKTOP_AUTOSTART_ID=10ff2eac2cb8983a0816433394817151300000021400007
+DC_HOME=/home/synopsys/syn/O-2018.06-SP1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+COLORTERM=truecolor
+CLUTTER_IM_MODULE=xim
+0
+23
+1642691809 ../pattern/tb_regfile.v
+1642674834 ../pattern/tb_extend.v
+1642674865 ../pattern/tb_mem.v
+1642410392 ../pattern/tb_alu.v
+1642674909 ../pattern/tb_rvsingle.v
+1642661517 ../rtl/mux4.v
+1642688676 ../rtl/reg_file.v
+1642603481 ../rtl/extend.v
+1642661465 ../rtl/pc_reg.v
+1642231283 ../rtl/mux8.v
+1642231255 ../rtl/mux2.v
+1642227542 ../rtl/adder.v
+1642307704 ../rtl/alu.v
+1642750871 ../rtl/datapath.v
+1642661332 ../rtl/controller.v
+1642662937 ../rtl/dmem.v
+1642412425 ../rtl/imem.v
+1642661396 ../rtl/riscv_single.v
+1642661858 ../rtl/rvsingle_top.v
+1642691485 filelist.f
+1550753332 /home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/novas.tab
+1551421246 /home/synopsys/vcs/O-2018.09-SP2/linux64/lib/vcsdp.tab
+1550753332 /home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/verdi.tab
+5
+1551422344 /home/synopsys/vcs/O-2018.09-SP2/linux64/lib/libvirsim.so
+1551421792 /home/synopsys/vcs/O-2018.09-SP2/linux64/lib/liberrorinf.so
+1551421768 /home/synopsys/vcs/O-2018.09-SP2/linux64/lib/libsnpsmalloc.so
+1551421789 /home/synopsys/vcs/O-2018.09-SP2/linux64/lib/libvfs.so
+1550752033 /home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/pli.a
+1643339872 simv.daidir
+-1 partitionlib

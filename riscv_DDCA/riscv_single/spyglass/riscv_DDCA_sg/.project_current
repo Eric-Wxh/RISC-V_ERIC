@@ -1,0 +1,31 @@
+##Data Import Section
+
+read_file -type verilog adder.v
+read_file -type verilog comparator.v
+read_file -type verilog mux8.v
+read_file -type verilog mux2.v
+read_file -type verilog alu.v
+read_file -type verilog controller.v
+read_file -type verilog datapath.v
+read_file -type verilog dmem.v
+read_file -type verilog extend.v
+read_file -type verilog imem.v
+read_file -type verilog mux4.v
+read_file -type verilog pc_reg.v
+read_file -type verilog reg_file.v
+read_file -type verilog riscv_single.v
+read_file -type verilog rvsingle_top.v
+
+##Common Options Section
+
+set_option projectwdir .
+set_option language_mode mixed
+set_option designread_enable_synthesis yes
+set_option designread_disable_flatten no
+set_option active_methodology /home/synopsys/SpyGlass_2016.06/SpyGlass-L2016.06/SPYGLASS_HOME/GuideWare/latest/block/rtl_handoff
+
+
+##Goal Setup Section
+
+current_methodology $SPYGLASS_HOME/GuideWare/latest/block/rtl_handoff
+

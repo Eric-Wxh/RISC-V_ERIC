@@ -1,0 +1,6 @@
+SCHEMA@@PName@@Dir@@Msb@@Lsb@@Desc@@DU@@DU_BBOX
+VALUE@@a@@INPUT@@31@@0@@-@@adder@@No
+VALUE@@b@@INPUT@@31@@0@@-@@adder@@No
+VALUE@@cin@@INPUT@@0@@0@@-@@adder@@No
+VALUE@@sum@@OUTPUT@@31@@0@@-@@adder@@No
+VALUE@@cout@@OUTPUT@@0@@0@@-@@adder@@No

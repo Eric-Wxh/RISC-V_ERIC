@@ -1,0 +1,64 @@
+-1 "DetectTopDesignUnits" 2
+"RULEGROUP"
+["Design Read"]
+"BUILTIN"
+"1"
+-1 "ElabSummary" 2
+"RULEGROUP"
+["Design Read"]
+"BUILTIN"
+"1"
+-1 "RegInputOutput-ML" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[63]
+"RULEGROUP"
+["morelint"]
+-1 "ReportPortInfo-ML" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[42]
+"RULEGROUP"
+["morelint"]
+-1 "SYNTH_5143" 2
+"RULEGROUP"
+["Design Read"]
+"BUILTIN"
+"1"
+-1 "UndrivenInTerm-ML" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[71]
+"RULEGROUP"
+["morelint/HangingNet-ML/Undriven-ML"]
+-1 "W110" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[47]
+"RULEGROUP"
+["lint/width_rules_lint","lint/Lint_Elab_Rules","lint/Instance"]
+-1 "W123" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[50]
+"RULEGROUP"
+["lint/Lint_Elab_Rules","lint/Usage"]
+-1 "W287b" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[92]
+"RULEGROUP"
+["lint/Instance"]
+-1 "W528" 3
+"TEMPLATE"
+["lint/lint_rtl"]
+"RULE_ORDER"
+[95]
+"RULEGROUP"
+["lint/Lint_Elab_Rules","lint/Usage"]

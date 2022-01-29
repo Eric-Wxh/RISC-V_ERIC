@@ -1,0 +1,14 @@
+Module Name,Module Type,Port Name,Direction,Width,Index,Comment Source,Comment 
+rvsingle_top,Top_Level,clk,INPUT,1,-,-,-
+rvsingle_top,Top_Level,reset,INPUT,1,-,-,-
+rvsingle_top,Top_Level,pc,OUTPUT,32,[31:0],-,-
+rvsingle_top,Top_Level,ALU_Result,OUTPUT,32,[31:0],-,-
+Module Name,Module Type,Port Name,Direction,Width,Index,Comment Source,Comment 
+comparator,Top_Level,a,INPUT,32,[31:0],-,-
+comparator,Top_Level,b,INPUT,32,[31:0],-,-
+comparator,Top_Level,eq,OUTPUT,1,-,-,-
+comparator,Top_Level,neq,OUTPUT,1,-,-,-
+comparator,Top_Level,lt,OUTPUT,1,-,-,-
+comparator,Top_Level,lte,OUTPUT,1,-,-,-
+comparator,Top_Level,gt,OUTPUT,1,-,-,-
+comparator,Top_Level,gte,OUTPUT,1,-,-,-

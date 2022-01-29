@@ -1,0 +1,3 @@
+Command Line: /home/synopsys/verdi/Verdi_O-2018.09-SP2/platform/LINUXAMD64/bin/Novas -f filelist.f -ssf tb_rvsingle.fsdb
+uname(Linux eric-synopsys 5.4.0-96-generic #109~18.04.1-Ubuntu SMP Thu Jan 13 15:06:26 UTC 2022 x86_64)
+au time 102.072246 5.257557 4.358394 delta 465395712 465395712 total 897748992 897748992

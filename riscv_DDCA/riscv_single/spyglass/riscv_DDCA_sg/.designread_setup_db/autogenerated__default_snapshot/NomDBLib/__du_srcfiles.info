@@ -1,0 +1,16 @@
+15
+59 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/adder.v 1 0c0879bef2b3c6f91515259d8b0d80dd
+64 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/comparator.v 1 472a5c6a61be172ec9b992271fb32a25
+58 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/mux8.v 1 f1ffdc20d87e7532dd7e74fbe6125a4f
+58 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/mux2.v 1 03a36ca8a337e2849485b63129dc8de3
+57 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/alu.v 1 f9743924ded1de24072b06aa792322ea
+64 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/controller.v 1 e1debdf607ab6390136a5a712ed26e94
+62 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/datapath.v 1 7dbf8d6c18adfa7f6278b6bc670b06d8
+58 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/dmem.v 1 5d3b38d9266e91a5fc963db01885314c
+60 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/extend.v 1 8242dbb37d0e9422a1602e02b262fd57
+58 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/imem.v 1 1f2d75e16571e460030f6eb5aca0a9ed
+58 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/mux4.v 1 de5c712d7886959520e5998f0f6260c2
+60 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/pc_reg.v 1 1ebdacc1037d8df42692b607df14eec1
+62 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/reg_file.v 1 996d27f00889c8493a64072a051af941
+66 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/riscv_single.v 1 4bebd088d80672258d9f8d9e18450f0f
+66 /home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/rvsingle_top.v 1 8e5f7f4c5843deec6b0b096692128e02
