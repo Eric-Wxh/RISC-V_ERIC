@@ -1,6 +1,0 @@
-Module Name,Module Type,Port Name,Direction,Width,Index,Comment Source,Comment 
-adder,Top_Level,a,INPUT,32,[31:0],-,-
-adder,Top_Level,b,INPUT,32,[31:0],-,-
-adder,Top_Level,cin,INPUT,1,-,-,-
-adder,Top_Level,sum,OUTPUT,32,[31:0],-,-
-adder,Top_Level,cout,OUTPUT,1,-,-,-

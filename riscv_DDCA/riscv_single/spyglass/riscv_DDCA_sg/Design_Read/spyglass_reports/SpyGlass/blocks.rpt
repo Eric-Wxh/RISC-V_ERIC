@@ -1,3 +1,0 @@
-riscv_single@@@@rvsingle_top.rvsingle
-imem@@@@rvsingle_top.imem
-dmem@@@@rvsingle_top.dmem

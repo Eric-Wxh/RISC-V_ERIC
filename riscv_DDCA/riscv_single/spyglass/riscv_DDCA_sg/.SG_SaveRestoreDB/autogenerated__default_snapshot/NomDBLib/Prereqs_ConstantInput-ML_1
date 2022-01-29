@@ -1,7 +1,0 @@
-adder,datapath.v_59,1,b,32'd4
-adder,datapath.v_59,1,cin,1'b0
-adder,datapath.v_73,1,cin,32'd0
-mux4,datapath.v_107,1,data_in_3,32'd0
-mux8,alu.v_77,1,data_in_4,32'd0
-mux8,alu.v_77,1,data_in_6,32'd0
-mux8,alu.v_77,1,data_in_7,32'd0

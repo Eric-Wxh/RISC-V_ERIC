@@ -1,5 +1,0 @@
-INPUT@@/home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/spyglass-1/lint/lint_rtl/spyglass_reports@@/home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/spyglass-1/html_reports/data_files/@@adder@@lint-lint_rtl@@
-COPY@@/home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/spyglass-1/lint/lint_rtl/spyglass_reports/moresimple.rpt@@data_files/adder_lint-lint_rtl_moresimple.rpt@@
-COPY@@/home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/spyglass-1/lint/lint_rtl/spyglass_reports/no_msg_reporting_rules.rpt@@data_files/adder_lint-lint_rtl_no_msg_reporting_rules.rpt@@
-PROCESS@@simulation@@SpyGlass@@latch@@morelint@@timing@@starc2002@@openmore@@starc2005@@lint@@starc@@erc
-COPY@@/home/eric/Desktop/ic_pro/riscv/riscv_DDCA/spyglass/spyglass-1/lint/lint_rtl/spyglass.log@@data_files/adder_lint-lint_rtl_spyglass.log@@
